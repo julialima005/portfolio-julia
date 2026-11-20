@@ -142,3 +142,9 @@ html {
   color: #F2C9D5;
   border-top: 1px solid #F2C9D5;
 }
+
+@media (max-width: 767px) {
+  #inicio {
+    background-position: 75% top;
+  }
+}
